@@ -1,6 +1,5 @@
-﻿node_modules/
-dist/
-build/
-.DS_Store
+﻿snake_env/
+*.pyc
+__pycache__/
+.vscode/
 .env
-*.log
